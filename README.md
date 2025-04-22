@@ -1,2 +1,1 @@
-# CS2-External
-The source code of my cheat for cs2, yes the code is clumsy, but there is an aimbot and ESP, also a system of configs, whoever wants can finish it in a fork of the repository, I will be glad)
+The source code of my External cheat for cs2, yes the code is clumsy, but there is an aimbot and ESP, also a system of configs, whoever wants can finish it in a fork of the repository, I will be glad)
