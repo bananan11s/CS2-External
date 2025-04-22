@@ -1,0 +1,37 @@
+[Settings]
+ESP = true
+DrawBoxes = true
+DrawDistanceText = true
+DrawLines = true
+DrawForTeammates = false
+DrawHealthBar = false
+DrawArmorBar = false
+AimbotEnabled = false
+BoxType = 0
+LinePosition = 0
+AimbotFOV = 200.000000
+AimbotSmooth = 0.300000
+AimbotYOffset = 0.000000
+DisplayMode = 0
+OfflineCode = 11110000002000.301001100101010
+
+
+[FOVColor]
+R = 1.000000
+G = 0.000000
+B = 0.000000
+A = 1.000000
+
+
+[ESPColor]
+R = 1.000000
+G = 0.000000
+B = 0.000000
+A = 1.000000
+
+
+[TeammateColor]
+R = 0.000000
+G = 1.000000
+B = 0.000000
+A = 1.000000
